@@ -1,0 +1,48 @@
+
+# Virtual Environment
+myenv/
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Model files
+*.h5
+*.hdf5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Dataset files
+data/
+datasets/
+
+# TensorFlow
+logs/
+runs/
+checkpoints/
